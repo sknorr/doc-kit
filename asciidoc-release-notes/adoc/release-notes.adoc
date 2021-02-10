@@ -1,6 +1,6 @@
 include::attributes.adoc[]
 include::entities_all.adoc[]
-include::entities15.adoc[]
+include::entities_product.adoc[]
 
 [#rnotes]
 = {rnotes}

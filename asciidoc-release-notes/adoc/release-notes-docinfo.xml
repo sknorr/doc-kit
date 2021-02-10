@@ -2,11 +2,11 @@
    <dm:bugtracker>
     <dm:url>https://bugzilla.suse.com/enter_bug.cgi</dm:url>
     <dm:component>Release Notes</dm:component>
-    <dm:product>SUSE Linux Enterprise Server 15 SP2</dm:product>
-    <dm:assignee>sknorr@suse.com</dm:assignee>
+    <dm:product>ProductName</dm:product>
+    <dm:assignee>lukas.kucharczyk@suse.com</dm:assignee>
    </dm:bugtracker>
   </dm:docmanager>
   <releaseinfo>@VERSION@</releaseinfo>
-  <productname>SUSE Linux Enterprise Server</productname>
-  <productnumber>15 SP2</productnumber>
+  <productname>ProductName</productname>
+  <productnumber>1.0</productnumber>
   <date><?dbtimestamp format="Y-m-d"?></date>
