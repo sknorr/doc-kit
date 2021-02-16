@@ -9,9 +9,10 @@ always: Makefile
 initial: NEWS
 initial: README.adoc
 
+always: adoc/about-documentation.adoc
 initial: adoc/about-product.adoc
-initial: adoc/about-rn.adoc
-initial: adoc/abstract.adoc
+always: adoc/about-rn.adoc
+always: adoc/abstract.adoc
 always: adoc/entities-generic.adoc
 initial: adoc/entities-product.adoc
 always: adoc/legal.adoc

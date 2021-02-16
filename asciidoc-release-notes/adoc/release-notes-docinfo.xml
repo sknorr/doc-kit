@@ -3,7 +3,7 @@
     <dm:url>https://bugzilla.suse.com/enter_bug.cgi</dm:url>
     <dm:component>Release Notes</dm:component>
     <dm:product>ProductName</dm:product>
-    <dm:assignee>lukas.kucharczyk@suse.com</dm:assignee>
+    <dm:assignee>maintainter@example.com</dm:assignee>
    </dm:bugtracker>
   </dm:docmanager>
   <releaseinfo>@VERSION@</releaseinfo>
