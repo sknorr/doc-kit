@@ -5,3 +5,4 @@
 
 :doc-url: https://documentation.suse.com/product/version
 :doc-url-beta: https://susedoc.github.io/product/master
+:doc-url-source: https://www.suse.com/products/server/download/
