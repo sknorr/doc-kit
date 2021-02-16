@@ -7,7 +7,7 @@ include::entities-product.adoc[]
 
 These {rnotes} are identical across all architectures, and the most recent version is always available online at {rn-url}.
 
-Entries can be listed twice, if they are important and belong to more than one section.
+Entries are only listed once but they can be referenced in several places if they are important and belong to more than one section.
 
 Release notes usually only list changes that happened between two subsequent releases.
 Certain important entries from the release notes of previous product versions are repeated.
