@@ -12,9 +12,8 @@ initial: README.adoc
 initial: adoc/about-product.adoc
 initial: adoc/about-rn.adoc
 initial: adoc/abstract.adoc
-initial: adoc/attributes.adoc
-always: adoc/entities15.adoc
-always: adoc/entities_all.adoc
+always: adoc/entities-generic.adoc
+initial: adoc/entities-product.adoc
 always: adoc/legal.adoc
 initial: adoc/release-notes.adoc
 initial: adoc/release-notes-docinfo.xml
