@@ -1,11 +1,7 @@
 :product: ProductName
 :producta: PN
 :this-version: 1.0
-:abstract:
-This document provides an overview of high-level general features,
-capabilities, and limitations of {product} {this-version} and important
-product updates.
+:abstract: This document provides an overview of high-level general features, capabilities, and limitations of {product} {this-version} and important product updates.
 
-
-:doc-url: https://documentation.suse.com/slemicro/1
-:doc-url-beta: https://susedoc.github.io/doc-sle/master
+:doc-url: https://documentation.suse.com/product/version
+:doc-url-beta: https://susedoc.github.io/product/master

@@ -12,8 +12,8 @@ include::about-rn.adoc[]
 // ===================================================================
 
 // START ARCH-INDEPENDENT
-[#allArch]
-== General Features & Fixes
+[#all-architecture]
+== Changes affecting all architectures
 
 Information in this section applies to all architectures supported by {product} {this-version}.
 
