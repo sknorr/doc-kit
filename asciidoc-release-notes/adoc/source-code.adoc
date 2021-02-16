@@ -1,6 +1,6 @@
 
-include::entities_all.adoc[]
-include::entities_product.adoc[]
+include::entities-generic.adoc[]
+include::entities-product.adoc[]
 
 [#sourceCode]
 == Obtaining Source Code
